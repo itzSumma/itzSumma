@@ -1,37 +1,43 @@
-## 🚀 About Me
-Hi! I’m Sharmin Sultana Summa, an aspiring Front-End Developer and passionate learner in Web Development.  
-Over the past few months, I’ve been **learning and practicing core frontend technologies**, starting from the basics and gradually moving toward more interactive web development.  
 
-Here’s a summary of what I’ve learned so far:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
+</p>
 
-### 🌱 HTML & CSS
-- Structuring web pages using **HTML5 elements**  
-- Styling layouts with **CSS3**, including **Flexbox** and **Grid**  
-- Creating **responsive designs** for mobile, tablet, and desktop  
-- Using **SCSS** to write **cleaner and modular CSS**  
-- Understanding typography, colors, spacing, and design basics  
+# Hi 👋, I'm Sharmin Sultana Summa
 
-### 💻 JavaScript (In Progress)
-- Variables, data types, operators, and functions  
-- DOM manipulation to dynamically change web page content  
-- Handling events like clicks, inputs, and form submissions  
-- Writing conditional statements and loops to create interactive behavior  
-- Writing **clean and maintainable code**  
+I’m a **hardworking and passionate aspiring Front-End Developer**. I love building web interfaces, learning new things every day, and improving my coding skills step by step. I stay **consistent and self-motivated**, and I calmly face errors and bugs as challenges to learn from.  
 
-### ⚛️ React (Starting)
-- Learning **React fundamentals**: components, props, and state  
-- Creating **simple interactive UI elements**  
-- Understanding how to manage **component-based architecture**  
-- Planning to explore **React Router, hooks, and state management** next  
+---
 
-### ⚡ Other Skills
-- Using **VS Code** efficiently with helpful extensions  
-- Version control with **Git & GitHub**  
-- Debugging with **Chrome DevTools**  
-- Problem-solving through **small JS/React exercises**  
+## 🌱 What I’m Learning
 
-💡 Coding is more than a skill for me—it’s my hobby. I enjoy **experimenting with new ideas, solving challenges**, and continuously improving my craft.  
+- **React**: Components, Props, State, Hooks  
+- **JavaScript**: DOM manipulation, events, interactive UI  
+- **APIs & Frontend Projects**  
 
-My next goal is to **master React**, work with **APIs**, and start building **real-world projects** that I can showcase to recruiters.  
+---
 
-I’m always open to **learning, collaborating, and connecting** with other developers and professionals in the web development community. Let’s build something amazing! 🚀
+## 🛠️ My Skills
+
+**Frontend:** HTML, CSS, JavaScript, React (Learning)  
+**Tools:** Git, GitHub, VS Code, Chrome DevTools  
+
+---
+
+## 💡 My Approach
+
+- Always **curious and willing to learn**  
+- **Consistent practice** to grow day by day  
+- **Calmly debug errors and fix bugs**  
+- Experiment with ideas and create small projects to improve  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [sultana-summa](https://www.linkedin.com/in/sultana-summa)  
+- 📧 Email: [itzSumma11@gmail.com](mailto:itzSumma11@gmail.com)  
+
+---
+
+⭐ From **Sharmin Sultana Summa**
