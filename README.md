@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;React+%26+Node.js+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
 </h1>
 
 <h2 align="center">Hi 👋, I'm <strong>Sharmin Sultana Summa</strong></h2>
 
-<h3 align="center"><strong>A hardworking and passionate aspiring Front-End Developer 💻</strong><br/>I love building web interfaces, learning new things every day, and improving my coding skills step by step.<br/>I stay <strong>consistent and self-motivated</strong>, and I calmly face errors and bugs as challenges to learn from.</h3>
+<h3 align="center"><strong>A hardworking and passionate Junior Full-Stack Developer 💻</strong><br/>I love building web interfaces, exploring the world of Backend, and improving my logic step by step.<br/>I stay <strong>consistent and self-motivated</strong>, and I calmly face errors and bugs as challenges to learn from.</h3>
 
 <br/>
 <hr/>
@@ -15,9 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=itzSumma&label=Profile%20views&color=00F5FF&style=flat" alt="itzSumma" />
 </p>
 
-- 🔭 Currently working on **JavaScript & React Projects**
-- 🌱 Currently learning **React — Components, Props, State & Hooks**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git**
+- 🔭 Currently working on **Full-Stack Projects (MERN)**
+- 🌱 Currently deep-diving into **Node.js, Express & MongoDB**
+- 💬 Ask me about **React, JavaScript, and Frontend UI**
 - 📧 Reach me at **itzSumma11@gmail.com**
 - 💡 I **calmly debug errors** and treat every bug as a learning opportunity
 - ⚡ Fun fact: **Consistency beats talent every single day!**
@@ -46,10 +46,10 @@
 
 ---
 
-<h2 align="center"><strong>⚡ Learning & Projects</strong></h2>
+<h2 align="center"><strong>⚡ Current Learning Path</strong></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=React+—+Components%2C+Props%2C+State%2C+Hooks;JavaScript+—+DOM%2C+Events%2C+Interactive+UI;APIs+%26+Frontend+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Full-Stack+Flow+—+Frontend+to+DB;Node.js+—+Routing+%26+REST+APIs;MongoDB+—+Schemas+%26+CRUD;React+—+State+Management+%26+Hooks" />
 </p>
 
 <br/>
@@ -66,12 +66,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/>
 </p>
 
-<h3 align="center"><strong>Tools & Environment</strong></h3>
+<h3 align="center"><strong>Backend & Database</strong></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+</p>
+
+<h3 align="center"><strong>Tools & Workflow</strong></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome DevTools" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/>
 </p>
 
 <br/>
@@ -82,12 +89,12 @@
 
 <table align="center">
   <tr>
-    <td><h3>🧠 <strong>Curious & Always Learning</strong></h3></td>
-    <td><h3>📈 <strong>Consistent Practice</strong> to improve every day</h3></td>
+    <td><h3>🧠 <strong>Full-Stack Explorer</strong></h3></td>
+    <td><h3>📈 <strong>CRUD Master</strong> in training</h3></td>
   </tr>
   <tr>
-    <td><h3>🛠️ <strong>Calm & Focused Debugging</strong> — Every bug is a lesson</h3></td>
-    <td><h3>💡 <strong>Experiment & Build</strong> small projects to grow skills</h3></td>
+    <td><h3>🛠️ <strong>API Testing</strong> with Postman</h3></td>
+    <td><h3>💡 <strong>Logic Building</strong> with JS & Node</h3></td>
   </tr>
 </table>
 
