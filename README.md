@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Automattic/mongoose/master/docs/images/favicon.png" alt="Mongoose" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose"/>
 </p>
 
 <h3 align="center"><strong>Tools & Workflow</strong></h3>
