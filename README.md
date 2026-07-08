@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;React+%26+Node.js+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;MERN+%2B+TypeScript+Developer;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
 </h1>
 
 <h2 align="center">Hi 👋, I'm <strong>Sharmin Sultana Summa</strong></h2>
@@ -15,9 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=itzSumma&label=Profile%20views&color=00F5FF&style=flat" alt="itzSumma" />
 </p>
 
-- 🔭 Currently working on **Full-Stack Projects (MERN)**
-- 🌱 Currently deep-diving into **Node.js, Express & MongoDB**
-- 💬 Ask me about **React, JavaScript, and Frontend UI**
+- 🔭 Currently working on **Full-Stack Projects (MERN + TypeScript)**
+- 🌱 Currently deep-diving into **Express, Mongoose, Redux & Role-Based Auth**
+- 💬 Ask me about **React, JavaScript, TypeScript, and Backend Architecture**
 - 📧 Reach me at **itzSumma11@gmail.com**
 - 💡 I **calmly debug errors** and treat every bug as a learning opportunity
 - ⚡ Fun fact: **Consistency beats talent every single day!**
@@ -49,7 +49,7 @@
 <h2 align="center"><strong>⚡ Current Learning Path</strong></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Full-Stack+Flow+—+Frontend+to+DB;Node.js+—+Routing+%26+REST+APIs;MongoDB+—+Schemas+%26+CRUD;React+—+State+Management+%26+Hooks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&weight=700&lines=Full-Stack+Flow+—+Frontend+to+DB;TypeScript+—+Type-Safe+Development;Express+%2B+Mongoose+—+REST+APIs+%26+Schemas;Redux+—+Global+State+Management;Role-Based+Auth+%26+Payment+Integration" />
 </p>
 
 <br/>
@@ -63,7 +63,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/>
 </p>
 
 <h3 align="center"><strong>Backend & Database</strong></h3>
@@ -71,6 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+  <img src="https://www.svgrepo.com/show/331488/mongoose.svg" alt="Mongoose" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
 </p>
 
 <h3 align="center"><strong>Tools & Workflow</strong></h3>
@@ -94,7 +97,30 @@
   </tr>
   <tr>
     <td><h3>🛠️ <strong>API Testing</strong> with Postman</h3></td>
-    <td><h3>💡 <strong>Logic Building</strong> with JS & Node</h3></td>
+    <td><h3>💡 <strong>Logic Building</strong> with JS, TS & Node</h3></td>
+  </tr>
+  <tr>
+    <td><h3>🔐 <strong>Auth & RBAC</strong> Systems</h3></td>
+    <td><h3>🌀 <strong>State Management</strong> with Redux</h3></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center"><strong>🚀 Recent Project Highlight</strong></h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>⚖️ VerdictHub — Online Lawyer Hiring Platform</h3>
+      <p>Role-based full-stack platform with Better Auth, Stripe payments, and admin analytics.</p>
+      <p>
+        <strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript, Stripe
+      </p>
+      <a href="https://verdict-hub-client.vercel.app/" target="_blank">🔗 Live Demo</a>
+    </td>
   </tr>
 </table>
 
