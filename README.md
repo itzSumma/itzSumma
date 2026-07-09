@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;MERN+%2B+TypeScript+Developer;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;MERN+%2B+TypeScript+Developer;Passionate+Coder;Consistent+and+Self-Motivated;Problem+Solver" />
 </h1>
 
 <h2 align="center">Hi 👋, I'm <strong>Sharmin Sultana Summa</strong></h2>
 
-<h3 align="center"><strong>A hardworking and passionate Junior Full-Stack Developer 💻</strong><br/>I love building web interfaces, exploring the world of Backend, and improving my logic step by step.<br/>I stay <strong>consistent and self-motivated</strong>, and I calmly face errors and bugs as challenges to learn from.</h3>
+<h3 align="center"><strong>A passionate Full-Stack Developer focused on building modern, scalable web applications 💻</strong><br/>I love building web interfaces, exploring the world of Backend, and improving my logic step by step.<br/>I stay <strong>consistent and self-motivated</strong>, and I calmly face errors and bugs as challenges to learn from.</h3>
 
 <br/>
 <hr/>
@@ -19,11 +19,11 @@
 - 🌱 Currently deep-diving into **Express, Mongoose, Redux & Role-Based Auth**
 - 💬 Ask me about **React, JavaScript, TypeScript, and Backend Architecture**
 - 📧 Reach me at **itzSumma11@gmail.com**
+- 📍 Bangladesh
 - 💡 I **calmly debug errors** and treat every bug as a learning opportunity
 - ⚡ Fun fact: **Consistency beats talent every single day!**
 
 <br/><br/><br/>
-
 
 <h2 align="left">🤝 Let's Connect:</h2>
 
@@ -74,14 +74,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" alt="Better Auth"/>
 </p>
 
-<h3 align="center"><strong>Tools & Workflow</strong></h3>
+<h3 align="center"><strong>Payments & Tools</strong></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 </p>
 
 <br/>
@@ -93,7 +96,7 @@
 <table align="center">
   <tr>
     <td><h3>🧠 <strong>Full-Stack Explorer</strong></h3></td>
-    <td><h3>📈 <strong>CRUD Master</strong> in training</h3></td>
+    <td><h3>📈 <strong>REST API</strong> Development</h3></td>
   </tr>
   <tr>
     <td><h3>🛠️ <strong>API Testing</strong> with Postman</h3></td>
@@ -109,20 +112,42 @@
 
 ---
 
-<h2 align="center"><strong>🚀 Recent Project Highlight</strong></h2>
+<h2 align="center"><strong>🚀 Project Highlights</strong></h2>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <h3>⚖️ VerdictHub — Online Lawyer Hiring Platform</h3>
+    <td align="center" width="50%">
+      <h3>⚖️ VerdictHub</h3>
+      <p><em>Online Lawyer Hiring Platform</em></p>
       <p>Role-based full-stack platform with Better Auth, Stripe payments, and admin analytics.</p>
-      <p>
-        <strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript, Stripe
-      </p>
+      <p><strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript, Stripe</p>
       <a href="https://verdict-hub-client.vercel.app/" target="_blank">🔗 Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚗 VeloDrive</h3>
+      <p><em>Premium Car Rental Platform</em></p>
+      <p>Fully automated car booking system with fleet browsing, booking flow, and secure transactions.</p>
+      <p><strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript</p>
+      <a href="https://velo-drive-client-kappa.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+<h2 align="center"><strong>📚 Currently Learning</strong></h2>
+
+<p align="center">
+
+- Express.js
+- Mongoose
+- Better Auth
+- Redux
+- Stripe Integration
+
+</p>
 
 <br/>
 
@@ -139,15 +164,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" height="165"/>
 </p>
-
----
-
-<h2 align="center"><strong>📈 My Contribution Graph 📈</strong></h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 ---
 
