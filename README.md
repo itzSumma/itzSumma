@@ -1,3 +1,6 @@
+
+
+![image alt](https://github.com/itzSumma/itzSumma/blob/5aa9ed9b4fc79c54dcc1d0e70cd18b69e30601af/ChatGPT%20Image%20Jul%209%2C%202026%2C%2006_50_03%20PM.png)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;MERN+%2B+TypeScript+Developer;Passionate+Coder;Consistent+and+Self-Motivated;Problem+Solver" />
 </h1>
