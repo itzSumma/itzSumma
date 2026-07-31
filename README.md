@@ -1,6 +1,3 @@
-
-
-![image alt](https://github.com/itzSumma/itzSumma/blob/5aa9ed9b4fc79c54dcc1d0e70cd18b69e30601af/ChatGPT%20Image%20Jul%209%2C%202026%2C%2006_50_03%20PM.png)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+Full-Stack+Developer;MERN+%2B+TypeScript+Developer;Passionate+Coder;Consistent+and+Self-Motivated;Problem+Solver" />
 </h1>
@@ -19,7 +16,7 @@
 </p>
 
 - 🔭 Currently working on **Full-Stack Projects (MERN + TypeScript)**
-- 🌱 Currently deep-diving into **Express, Mongoose, Redux & Role-Based Auth**
+- 🌱 Currently deep-diving into **Advanced TypeScript, Node.js Architecture, Prisma & PostgreSQL**
 - 💬 Ask me about **React, JavaScript, TypeScript, and Backend Architecture**
 - 📧 Reach me at **itzSumma11@gmail.com**
 - 📍 Bangladesh
@@ -52,7 +49,7 @@
 <h2 align="center"><strong>⚡ Current Learning Path</strong></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&weight=700&lines=Full-Stack+Flow+—+Frontend+to+DB;TypeScript+—+Type-Safe+Development;Express+%2B+Mongoose+—+REST+APIs+%26+Schemas;Redux+—+Global+State+Management;Role-Based+Auth+%26+Payment+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&weight=700&lines=TypeScript+Backend+Architecture;Prisma+%2B+PostgreSQL;Express.js+with+Zod+Validation;Redux+Toolkit+State+Management;JWT,+Auth+Security+%26+Stripe" />
 </p>
 
 <br/>
@@ -76,6 +73,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="55" height="55" style="background-color: white; border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
   <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" alt="Better Auth"/>
@@ -144,11 +143,11 @@
 
 <p align="center">
 
-- Express.js
-- Mongoose
-- Better Auth
-- Redux
-- Stripe Integration
+- TypeScript Backend Architecture & Modular Pattern
+- Express.js with Zod Validation
+- Advanced Mongoose & MongoDB Aggregation
+- Redux Toolkit & RTK Query
+- Stripe Payment Gateway Integration
 
 </p>
 
@@ -160,7 +159,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzSumma&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzSumma&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
