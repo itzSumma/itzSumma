@@ -158,7 +158,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="165" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight" height="165" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&cache_bust=1" height="165" alt="Streak Stats"/>
 </p>
 
 <p align="center">
