@@ -154,17 +154,16 @@
 <br/>
 
 ---
-
 <h2 align="center"><strong>💻 My GitHub Activity 💻</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzSumma&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzSumma&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="165" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight" height="165" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="165" alt="Profile Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" height="165" alt="Activity Graph"/>
 </p>
 
 ---
