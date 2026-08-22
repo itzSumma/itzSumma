@@ -119,18 +119,19 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>⚖️ VerdictHub</h3>
-      <p><em>Online Lawyer Hiring Platform</em></p>
-      <p>Role-based full-stack platform with Better Auth, Stripe payments, and admin analytics.</p>
-      <p><strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript, Stripe</p>
-      <a href="https://verdict-hub-client.vercel.app/" target="_blank">🔗 Live Demo</a>
+      <h3>🧴 PureYuna</h3>
+      <p><em>Full-Stack Skincare E-commerce Platform</em></p>
+      <p>Built a complete skincare e-commerce platform with JWT authentication, role-based admin access, product management, search, filtering, sorting, pagination, wishlist, cart, checkout, order management, and automated stock updates.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Express.js, Prisma, PostgreSQL, JWT</p>
+      <a href="https://pure-yuna-client.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
+
     <td align="center" width="50%">
-      <h3>🚗 VeloDrive</h3>
-      <p><em>Premium Car Rental Platform</em></p>
-      <p>Fully automated car booking system with fleet browsing, booking flow, and secure transactions.</p>
-      <p><strong>Stack:</strong> Next.js, React, Express, MongoDB, Mongoose, TypeScript</p>
-      <a href="https://velo-drive-client-kappa.vercel.app/" target="_blank">🔗 Live Demo</a>
+      <h3>🤖 DevArchify</h3>
+      <p><em>AI-Powered Project Architecture Platform</em></p>
+      <p>Built an AI-powered platform that helps developers plan applications by generating project architecture blueprints, folder structures, database schemas, and technical recommendations from project requirements.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Express.js, MongoDB, Mongoose, OpenRouter API</p>
+      <a href="https://devarchify.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -138,6 +139,7 @@
 <br/>
 
 ---
+
 
 <h2 align="center"><strong>📚 Currently Learning</strong></h2>
 
