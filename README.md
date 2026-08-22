@@ -123,15 +123,14 @@
       <p><em>Full-Stack Skincare E-commerce Platform</em></p>
       <p>Built a complete skincare e-commerce platform with JWT authentication, role-based admin access, product management, search, filtering, sorting, pagination, wishlist, cart, checkout, order management, and automated stock updates.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Express.js, Prisma, PostgreSQL, JWT</p>
-      <a href="https://pure-yuna-client.vercel.app/" target="_blank">🔗 Live Demo</a>
+      <a href="https://pure-yuna-client.vercel.app/">🔗 Live Demo</a>
     </td>
-
     <td align="center" width="50%">
       <h3>🤖 DevArchify</h3>
       <p><em>AI-Powered Project Architecture Platform</em></p>
       <p>Built an AI-powered platform that helps developers plan applications by generating project architecture blueprints, folder structures, database schemas, and technical recommendations from project requirements.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Express.js, MongoDB, Mongoose, OpenRouter API</p>
-      <a href="https://devarchify.vercel.app/" target="_blank">🔗 Live Demo</a>
+      <a href="https://devarchify.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
