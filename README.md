@@ -168,9 +168,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzSumma&theme=tokyonight" 
+        src="https://github-readme-streak-stats.subhash.is-a.dev/?user=itzSumma&theme=tokyonight&hide_border=true" 
         height="165" 
-        alt="Profile Details" 
+        alt="GitHub Streak Stats" 
       />
     </td>
   </tr>
@@ -191,6 +191,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
