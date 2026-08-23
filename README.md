@@ -163,13 +163,15 @@
     height="165" 
     alt="Top Languages"
   />
-  
+
   <img 
-    src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true" 
     height="165" 
     alt="GitHub Streak Stats"
   />
 </p>
+
+<br/>
 
 <p align="center">
   <img 
@@ -177,14 +179,13 @@
     height="165" 
     alt="Profile Stats"
   />
-  
+
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true" 
     height="165" 
     alt="Activity Graph"
   />
 </p>
-
 ---
 
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
