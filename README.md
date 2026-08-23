@@ -159,30 +159,30 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" 
         height="165" 
         alt="Top Languages" 
       />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzSumma&theme=tokyonight&utcOffset=6" 
         height="165" 
-        alt="GitHub Stats" 
+        alt="Productive Time" 
       />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" 
         height="165" 
         alt="Profile Stats" 
       />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true" 
         height="165" 
