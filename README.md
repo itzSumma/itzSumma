@@ -168,7 +168,7 @@
     </td>
     <td align="center">
       <img 
-        src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+        src="https://streak-stats-five.vercel.app/?user=itzSumma&theme=tokyonight&hide_border=true" 
         height="165" 
         alt="GitHub Streak Stats" 
       />
