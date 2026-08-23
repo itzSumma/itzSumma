@@ -157,35 +157,40 @@
 ---
 <h2 align="center"><strong>💻 My GitHub Activity 💻</strong></h2>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" 
-    height="165" 
-    alt="Top Languages"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true" 
-    height="165" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" 
-    height="165" 
-    alt="Profile Stats"
-  />
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true" 
-    height="165" 
-    alt="Activity Graph"
-  />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" 
+        height="165" 
+        alt="Top Languages" 
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img 
+        src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight&hide_border=true&card_width=400" 
+        height="165" 
+        alt="GitHub Streak Stats" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" 
+        height="165" 
+        alt="Profile Stats" 
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true&area=true" 
+        height="165" 
+        alt="Activity Graph" 
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
