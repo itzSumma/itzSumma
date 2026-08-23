@@ -168,9 +168,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://streak-stats-five.vercel.app/?user=itzSumma&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" 
         height="165" 
-        alt="GitHub Streak Stats" 
+        alt="GitHub Streak & Stats" 
       />
     </td>
   </tr>
