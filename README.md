@@ -168,9 +168,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-streak-stats.subhash.is-a.dev/?user=itzSumma&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
         height="165" 
-        alt="GitHub Streak Stats" 
+        alt="GitHub Stats" 
       />
     </td>
   </tr>
