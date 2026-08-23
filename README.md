@@ -158,13 +158,31 @@
 <h2 align="center"><strong>💻 My GitHub Activity 💻</strong></h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="165" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&cache_bust=1" height="165" alt="Streak Stats"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" 
+    height="165" 
+    alt="Top Languages"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight" 
+    height="165" 
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="165" alt="Profile Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" height="165" alt="Activity Graph"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" 
+    height="165" 
+    alt="Profile Stats"
+  />
+  
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night" 
+    height="165" 
+    alt="Activity Graph"
+  />
 </p>
 
 ---
