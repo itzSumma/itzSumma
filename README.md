@@ -168,9 +168,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzSumma&theme=tokyonight&utcOffset=6" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzSumma&theme=tokyonight" 
         height="165" 
-        alt="Productive Time" 
+        alt="Profile Details" 
       />
     </td>
   </tr>
