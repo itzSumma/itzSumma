@@ -160,25 +160,25 @@
 
 ### GitHub Contributions:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ### GitHub Stats & Streak:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzSumma&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="170" alt="Language Summary" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" height="175" alt="Repos per Language" />
     </td>
   </tr>
 </table>
