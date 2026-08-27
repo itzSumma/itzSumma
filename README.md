@@ -156,27 +156,29 @@
 
 ---
 <!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+<h2><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b></h2>
 
 ### GitHub Contributions:
-![Snake Animation](https://github.com/itzSumma/itzSumma/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://svg-banners.terminaltrove.com/api/snk?username=itzSumma&theme=dark" alt="Snake Animation" width="100%" />
+</p>
 
 ### GitHub Statistics:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzSumma&theme=tokyonight" height="175" alt="Productive Time" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="Profile Summary" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" height="175" alt="Repos Per Language" />
     </td>
   </tr>
 </table>
