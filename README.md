@@ -160,25 +160,25 @@
 
 ### GitHub Contributions:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/7aa2f7/itzSumma" alt="itzSumma's GitHub Contributions" width="100%" />
 </p>
 
 ### GitHub Stats & Streak:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight&v=2" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=itzSumma&theme=tokyonight&hide_border=true&mode=daily&v=2" height="175" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight&v=2" height="175" alt="Top Languages by Commit" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" height="175" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight&v=2" height="175" alt="Top Languages by Repo" />
     </td>
   </tr>
 </table>
