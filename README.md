@@ -163,14 +163,14 @@
   <img src="https://ghchart.rshah.org/7aa2f7/itzSumma" alt="itzSumma's GitHub Contributions" width="100%" />
 </p>
 
-### GitHub Stats & Streak:
+### GitHub Stats & Achievements:
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="175" alt="GitHub Streak" />
+      <img src="https://github-profile-trophy.vercel.app/?username=itzSumma&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" height="175" alt="GitHub Trophies" />
     </td>
   </tr>
   <tr>
