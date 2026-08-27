@@ -155,43 +155,31 @@
 <br/>
 
 ---
-<h2 align="center"><strong>💻 My GitHub Activity 💻</strong></h2>
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### GitHub Contributions:
+![Snake Animation](https://github.com/itzSumma/itzSumma/blob/output/github-contribution-grid-snake.svg)
+
+### GitHub Statistics:
 <table align="center">
   <tr>
     <td align="center">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" 
-        height="165" 
-        alt="Top Languages" 
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-        height="165" 
-        alt="GitHub Stats" 
-      />
+      <img src="https://streak-stats.demolab.com/?user=itzSumma&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" 
-        height="165" 
-        alt="Profile Stats" 
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Languages" />
     </td>
     <td align="center">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true&area=true" 
-        height="165" 
-        alt="Activity Graph" 
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="Profile Summary" />
     </td>
   </tr>
 </table>
-
 ---
 
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
