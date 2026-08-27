@@ -168,9 +168,9 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" 
+        src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
         height="165" 
-        alt="GitHub Streak & Stats" 
+        alt="GitHub Stats" 
       />
     </td>
   </tr>
@@ -184,7 +184,7 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&theme=tokyo-night&hide_border=true&area=true" 
         height="165" 
         alt="Activity Graph" 
       />
