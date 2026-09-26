@@ -157,11 +157,6 @@
 ---
 <!--- statistics --->
 <h2><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b></h2>
-
-### GitHub Contributions:
-<p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/itzSumma" alt="itzSumma's GitHub Contributions" width="100%" />
-</p>
 ### GitHub Stats & Achievements:
 <table align="center">
   <tr>
