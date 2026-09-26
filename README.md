@@ -157,14 +157,14 @@
 ---
 <!--- statistics --->
 <h2><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b></h2>
-### GitHub Stats & Achievements:
+
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=itzSumma&theme=tokyonight&margin-w=4" height="175" alt="GitHub Trophies" />
+      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Overview" />
     </td>
   </tr>
   <tr>
