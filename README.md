@@ -174,6 +174,11 @@
     </td>
   </tr>
   <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-statusts.vercel.app/?user=itzSumma&theme=tokyonight" height="175" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages by Commit" />
     </td>
