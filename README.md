@@ -162,7 +162,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/itzSumma" alt="itzSumma's GitHub Contributions" width="100%" />
 </p>
-
 ### GitHub Stats & Achievements:
 <table align="center">
   <tr>
@@ -175,7 +174,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-statusts.vercel.app/?user=itzSumma&theme=tokyonight" height="175" alt="GitHub Streak" />
+      <img src="./profile/streak.svg" height="175" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
