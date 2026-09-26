@@ -158,29 +158,26 @@
 <!--- statistics --->
 <h2><img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b></h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Overview" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="./profile/streak.svg" height="175" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages by Commit" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" height="175" alt="Top Languages by Repo" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Main Highlight: Live Streak -->
+  <img src="./profile/streak.svg" width="98%" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top Analysis Row -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" width="48.5%" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzSumma&theme=tokyonight" width="48.5%" alt="GitHub Profile Details" />
+  </p>
+
+  <!-- Language Distribution Charts -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" width="48.5%" alt="Top Languages by Commit" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" width="48.5%" alt="Top Languages by Repo" />
+  </p>
+
+</div>
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
 
 <p align="center">
