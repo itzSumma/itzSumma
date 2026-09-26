@@ -160,22 +160,19 @@
 
 <div align="center">
 
-  <!-- Main Highlight: Live Streak -->
-  <img src="./profile/streak.svg" width="98%" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Top Analysis Row -->
+  <!-- Compact Top Row: Streak & Stats -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" width="48.5%" alt="GitHub Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzSumma&theme=tokyonight" width="48.5%" alt="GitHub Profile Details" />
+    <img src="./profile/streak.svg" height="145" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="145" alt="GitHub Stats" />
   </p>
 
-  <!-- Language Distribution Charts -->
+  <!-- Compact Bottom Row: Language Analytics -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" width="48.5%" alt="Top Languages by Commit" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" width="48.5%" alt="Top Languages by Repo" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzSumma&theme=tokyonight" height="145" alt="Top Languages by Commit" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzSumma&theme=tokyonight" height="145" alt="Top Languages by Repo" />
   </p>
+
+</div>
 
 </div>
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
