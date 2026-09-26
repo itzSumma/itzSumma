@@ -170,7 +170,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzSumma&theme=tokyonight" height="175" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=itzSumma&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" height="175" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=itzSumma&theme=tokyonight&margin-w=4" height="175" alt="GitHub Trophies" />
     </td>
   </tr>
   <tr>
@@ -187,7 +187,6 @@
     </td>
   </tr>
 </table>
-
 <h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
 
 <p align="center">
